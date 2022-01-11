@@ -2,7 +2,7 @@
 
 ## Utilizando estruturas de repetição
 
-Exercícios retirados de <a href="https://github.com/cami-la/loops-e-arrays" target="_blank">Loops e Arrays</a> em <a href="https://github.com/cami-la/loops-e-arrays/tree/master/src/br/com/dio/exercicios/loops" target="_blank">Exercícios Loops</a> durante o bootcamp na plataforma <a href="https://web.dio.me/" target="_blank">DIO</a>
+Exercícios retirados de <a href="https://github.com/cami-la/loops-e-arrays" target="_blank" rel="noopener noreferrer">Loops e Arrays</a> em <a href="https://github.com/cami-la/loops-e-arrays/tree/master/src/br/com/dio/exercicios/loops" target="_blank" rel="noopener noreferrer">Exercícios Loops</a> durante o bootcamp na plataforma <a href="https://web.dio.me/" target="_blank" rel="noopener noreferrer">DIO</a>
 
 
 
