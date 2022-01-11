@@ -2,6 +2,10 @@
 
 ## Utilizando estruturas de repetição
 
+Exercícios retirados de <a href="https://github.com/cami-la/loops-e-arrays">Loops e Arrays</a> em <a href="https://github.com/cami-la/loops-e-arrays/tree/master/src/br/com/dio/exercicios/loops">Exercícios Loops</a> durante o bootcamp na plataforma DIO . https://web.dio.me/home
+
+
+
 
 ### Exercício 01 - Nome e Idade:
 Fazer um programa que leia conjuntos de dois valores: o primeiro representando o nome de um aluno e o segundo representando a sua idade.
