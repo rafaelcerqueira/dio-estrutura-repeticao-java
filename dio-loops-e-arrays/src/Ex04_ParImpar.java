@@ -34,5 +34,16 @@ public class Ex04_ParImpar {
         System.out.println("A quantidade de números ímpares digitados é de: " + quantidadeDeImpares);
         System.out.println("Total de números digitados: " + contador);
 
+        int num = 5, count = 1;
+
+        do {
+
+            num += count;
+
+            System.out.println(num);
+
+        } while (count <= 3);
+
+
     }
 }
